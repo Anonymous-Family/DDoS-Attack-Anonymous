@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/XEricDev/MXDDoS/main/screenshot/logo.ico" width="150px" height="150px" alt="aventium softworks"></p>
 
-<h1 align="center">MXDDoS - DDoS Attack Script With 40 Methods</h1>
+<h1 align="center">DDoS-Attack-Anonymous - DDoS Attack Script With 40 Methods</h1>
 
 <em><h5 align="center">(Code Lang - Python 3)</h5></em>
 
@@ -123,5 +123,5 @@ python3 start.py help
 ```
 
 [python3]: https://python.org 'Python3'
-[github]: https://github.com/Anonymous-Family/DDoS-Attack-Anonymous.git 'GitHub'
+[github]: https://github.com/Anonymous-Family/DDoS-Attack-Anonymous.git'GitHub'
 
