@@ -67,7 +67,7 @@
 
 ## Downloads
 
-You can download it from [GitHub Releases](https://github.com/XEricDev/MXDDoS/releases)
+You can download it from [GitHub Releases](https://github.com/Anonymous-Family/DDoS-Attack-Anonymous.git)
 
 ### Getting Started
 
@@ -96,7 +96,7 @@ You can download it from [GitHub Releases](https://github.com/XEricDev/MXDDoS/re
 **Clone and Install Script**
 
 ```console
-git clone https://github.com/XEricDev/MXDDoS.git
+git clone https://github.com/Anonymous-Family/DDoS-Attack-Anonymous.git
 cd MXDDoS
 pip3 install -r requirements.txt
 ```
@@ -123,5 +123,5 @@ python3 start.py help
 ```
 
 [python3]: https://python.org 'Python3'
-[github]: https://github.com/XEricDev/MXDDoS/issues 'GitHub'
+[github]: https://github.com/Anonymous-Family/DDoS-Attack-Anonymous.git 'GitHub'
 
