@@ -1,4 +1,4 @@
-<p align="center"><img src="./screenshot/logo.ico" width="150px" height="150px" alt="aventium softworks"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/XEricDev/MXDDoS/main/screenshot/logo.ico" width="150px" height="150px" alt="aventium softworks"></p>
 
 <h1 align="center">MXDDoS - DDoS Attack Script With 40 Methods</h1>
 
